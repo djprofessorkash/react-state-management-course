@@ -1,7 +1,7 @@
 # Course Progress in React State Management (FreeCodeCamp)
 
 ## Modules Completed:
-- useState (**IN PROGRESS**)
+- (**IN PROGRESS**) useState
 - useReducer
 - useMemo & useCallback
 - useEffect
